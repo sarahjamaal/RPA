@@ -1,10 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <ConteXtorStudio Version="Desktop Studio 2.0.5.69" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" noNamespaceSchemaLocation="XsdStudio.xsd">
-	<Properties>
-		<Property Name="validity" />
-		<Property Name="cyphering">0</Property>
-		<Property Name="compression">1</Property>
-	</Properties>
 	<UpdatePackages />
 	<Evolutions>
 		<Evolution Version="1.0" Date="1/19/2021"><![CDATA[Project creation]]></Evolution>
@@ -38,40 +33,10 @@
 				</STRUCTUREDON>
 			</_DECLAREVAR>
 			<SCRIPTS>
-				<!-- framework files -->
-				<SCRIPT Name="Constants" Src="%sdk%\lib\common\ctx.enum.js" Folder="Framework" />
-				<SCRIPT Name="Ctx Core" Src="%sdk%\lib\ctx\ctx.core.js" Folder="Framework" />
-				<SCRIPT Name="Ctx XML" Src="%sdk%\lib\ctx\ctx.xml.js" Folder="Framework" />
-				<SCRIPT Name="Ctx Scenario" Src="%sdk%\lib\ctx\ctx.scenario.js" Folder="Framework" />
-				<SCRIPT Name="Ctx Request" Src="%sdk%\lib\ctx\ctx.request.js" Folder="Framework" />
-				<SCRIPT Name="Ctx Language" Src="%sdk%\lib\ctx\ctx.language.js" Folder="Framework" />
-				<SCRIPT Name="Ctx Item" Src="%sdk%\lib\ctx\ctx.item.js" Folder="Framework" />
-				<SCRIPT Name="Ctx Page" Src="%sdk%\lib\ctx\ctx.page.js" Folder="Framework" />
-				<SCRIPT Name="Ctx Application" Src="%sdk%\lib\ctx\ctx.application.js" Folder="Framework" />
-				<SCRIPT Name="Ctx Systray" Src="%sdk%\lib\ctx\ctx.systray.js" Folder="Framework" />
-				<SCRIPT Name="Ctx Popup" Src="%sdk%\lib\ctx\ctx.popup.js" Folder="Framework" />
-				<SCRIPT Name="Ctx Popup Bootstrap" Src="%sdk%\lib\ctx\ctx.popup.bootbox.js" Folder="Framework" />
-				<!-- framework extensions -->
-				<SCRIPT Name="FSO library" Src="%sdk%\lib\utils\fso.js" Folder="Framework" />
-				<SCRIPT Name="WMI library" Src="%sdk%\lib\utils\wmi.js" Folder="Framework" />
-				<SCRIPT Name="WScript library" Src="%sdk%\lib\utils\wscript.js" Folder="Framework" />
-				<SCRIPT Name="Ctx Diagnostic" Src="%sdk%\lib\ctx\ctx.diagnostic.js" Folder="Framework" />
-				<SCRIPT Name="Ctx Galaxy" Src="%sdk%\lib\galaxy\galaxy.m2m.js" Folder="Framework" />
-				<SCRIPT Name="SAP UI5" Src="%sdk%\lib\sapui5\sapui5.js" Folder="Framework" />
-				<SCRIPT Name="Entities" Src="entities.js" IsWorkflowGenerated="Y" />
-				<!-- generated definition file -->
-				<SCRIPT Name="Declarations" Src="Supplier Down Payment Request.resources.js" ReadOnly="Y" />
-				<!-- project files -->
-				<SCRIPT Name="Labels" Src="labels.js" />
-				<SCRIPT Name="Global" Src="global.js" />
-				<SCRIPT Name="DownPaymentRequestsforSuppliers" Src="downpaymentrequestsforsuppliers.js" IsWorkflowGenerated="Y" />
-				<SCRIPT Name="SplashScreen" Src="SplashScreen\settings.js" Perspective="UiDesigner" />
-				<SCRIPT Name="InitialConfigurationP" Src="InitialConfigurationP\settings.js" Perspective="UiDesigner" />
+				<SCRIPT Name="Constants" Src="Supplier Down Payment Request.min.js" Folder="Framework" />
 			</SCRIPTS>
 			<RESOURCES>
-				<!-- html resources -->
 				<RESOURCE Name="popup" Src="%sdk%\templates\resources\popup\" Dest="popup" />
-				<!-- bitmaps -->
 				<RESOURCE Name="agent16px" Src="%sdk%\templates\resources\bmp\agent.png" Dest="bmp" />
 				<RESOURCE Name="accept16px" Src="%sdk%\templates\resources\bmp\accept.png" Dest="bmp" />
 				<RESOURCE Name="cancel16px" Src="%sdk%\templates\resources\bmp\cancel.png" Dest="bmp" />

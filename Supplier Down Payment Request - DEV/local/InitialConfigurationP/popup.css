@@ -1,0 +1,32 @@
+﻿.containerCls {
+	margin: 0 5 0 13px;
+}
+
+html title {
+	color: red;
+}
+
+body, html {
+	overflow-y: hidden;
+	overflow-x: hidden;
+	-ms-overflow-style: none;
+}
+
+.fioriBtn, .fioriBtn:hover, fioriBtn:active{
+	color: #ffffff !important;
+	border-color: #204d74;
+	width: 70px;
+	background-image: linear-gradient(to bottom,#337ab7 0,#0a6ed1 100%);
+	background-image: -webkit-linear-gradient(top,#337ab7 0,#0a6ed1 100%);
+	background-image: -o-linear-gradient(top,#337ab7 0,#0a6ed1 100%);
+	background-image: -webkit-gradient(linear,left top,left bottom,from(#337ab7),to(#0a6ed1));
+}
+
+.browseBtn {
+	background-color: rgba(255,255,255,0.2);
+	border: 1px solid #ccc;
+	border-radius: 4px;
+	width: 70px;
+	font-family: Arial;
+	font-size: 14px;
+}
