@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Context Id="da79a44a-1728-4dbc-8eb2-4f3e87c92adb">
+  <Entities>
+    <Entity Id="04fa3fa8-a755-434e-8006-cb2217f67d6f" Name="LogonData" IsArray="False">
+      <Entities>
+        <Entity Id="42ddc1ab-d3c2-48a4-9201-756fe26e9064" Name="pLogonData" IsArray="False">
+          <Entities>
+            <Entity Id="39db37a0-e0ea-41e4-a538-b1b96423257b" Name="iUser" IsArray="False" />
+            <Entity Id="14b25a8d-803f-4944-b1a0-461b37fc8da6" Name="iPass" IsArray="False" />
+          </Entities>
+        </Entity>
+        <Entity Id="751f9568-2a7f-4ce3-8498-5abc1d32d533" Name="pMonitorPurchaseOrdeData" IsArray="False">
+          <Entities>
+            <Entity Id="1f844ed8-420e-43bd-bc4e-90c001ac5847" Name="oFilterDisplayCurrency" IsArray="False" />
+          </Entities>
+        </Entity>
+      </Entities>
+    </Entity>
+    <Entity Id="0b9f656d-e46a-49e2-825b-5eb39ab7720f" Name="processedOrderPrice" IsArray="True" />
+  </Entities>
+</Context>

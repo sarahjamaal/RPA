@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<WORKFLOWDATA>
+	<FOLDER Name="LogonData" CtxtId="04fa3fa8-a755-434e-8006-cb2217f67d6f" IsIndexed="N">
+		<FOLDER Name="pLogonData" CtxtId="42ddc1ab-d3c2-48a4-9201-756fe26e9064" IsIndexed="N">
+			<ITEM Name="iUser" CtxtId="39db37a0-e0ea-41e4-a538-b1b96423257b" IsIndexed="N" />
+			<ITEM Name="iPass" CtxtId="14b25a8d-803f-4944-b1a0-461b37fc8da6" IsIndexed="N" />
+		</FOLDER>
+		<FOLDER Name="pMonitorPurchaseOrdeData" CtxtId="751f9568-2a7f-4ce3-8498-5abc1d32d533" IsIndexed="N">
+			<ITEM Name="oFilterDisplayCurrency" CtxtId="1f844ed8-420e-43bd-bc4e-90c001ac5847" IsIndexed="N" />
+		</FOLDER>
+	</FOLDER>
+	<FOLDER Name="processedOrderPrice" CtxtId="0b9f656d-e46a-49e2-825b-5eb39ab7720f" IsIndexed="Y" />
+</WORKFLOWDATA>

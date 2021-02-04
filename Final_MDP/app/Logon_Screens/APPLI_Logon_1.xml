@@ -1,0 +1,10 @@
+<APPLI Techno="WEB" RatioX="100" RatioY="100" Name="Logon" ProcessName="CHROME" ParamName="https://app-1809.cic.ae:44300/sap/bc/ui5_ui5/ui2/ushell/shells/abap/Fiorilaunchpad.html" ParentTree="">
+    <PROPERTIES>
+        <DOMAIN><![CDATA[app-1809.cic.ae]]></DOMAIN>
+        <URL><![CDATA[https://app-1809.cic.ae:44300/sap/bc/ui5_ui5/ui2/ushell/shells/abap/Fiorilaunchpad.html]]></URL>
+        <TITLE><![CDATA[Logon]]></TITLE>
+        <MAINFRAME>true</MAINFRAME>
+        <CX>2560</CX>
+        <CY>1297</CY>
+    </PROPERTIES>
+</APPLI>

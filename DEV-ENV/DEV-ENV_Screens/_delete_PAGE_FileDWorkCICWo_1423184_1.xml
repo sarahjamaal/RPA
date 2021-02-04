@@ -1,0 +1,1403 @@
+﻿<PAGE Techno="WEB" Name="PAGE_FileDWorkCICWo_1423184_1" ProcessName="CTXTSTUDIO3" ParamName="file://D:\Work\CIC\Workspace\SAP IRPA\Github - RPA\RPA\DEV-ENV\bin\InitPopup\popup.html?DesignMode=true&amp;ShowGrid=true" ParentTree="">
+	<PROPERTIES>
+		<TITLE>Supplier Down Payment Request</TITLE>
+		<URL>file://D:\Work\CIC\Workspace\SAP IRPA\Github - RPA\RPA\DEV-ENV\bin\InitPopup\popup.html?DesignMode=true&amp;ShowGrid=true</URL>
+		<CX>762</CX>
+		<CY>1170</CY>
+		<MAINFRAME>true</MAINFRAME>
+	</PROPERTIES>
+	<CHILDREN>
+		<ITEM>
+			<PROPERTIES>
+				<TAG>HTML</TAG>
+				<Text IsCompressed="yes">dY1BCsIwFET3hd5hbuDGlbtUKy5ESoIHKO0XAml+TX6s9fRWtCqCM8t5MwNMMqnvnaWADQ8eVT125AWazomi5Bn+6xnmmaZob7R2HOnAYk9jns02qoJZLHfqoGDGKNThqPerV3emChaUV2qSWPbTdc9B3qGpLwRhbNm1FL6rReAh0mfGkG8fZNnV1kE1DScv8fdMJw/cAQ==</Text>
+				<range>0</range>
+				<contentEditable>inherit</contentEditable>
+			</PROPERTIES>
+			<CTX_PROPS>
+				<BOUNDINGRECT>0|0|762|1170</BOUNDINGRECT>
+				<TITLE>HTML</TITLE>
+				<NAMEKEY>id</NAMEKEY>
+				<CONTROLTYPE>HTML</CONTROLTYPE>
+				<PREFIX />
+				<TEXT />
+				<TEXTKEY>Text</TEXTKEY>
+				<PARAMNAME />
+				<PARENTTREE />
+				<ISVISIBLE>True</ISVISIBLE>
+				<ISPREFERRED>False</ISPREFERRED>
+			</CTX_PROPS>
+			<CHILDREN>
+				<ITEM>
+					<PROPERTIES>
+						<TAG>HEAD</TAG>
+						<Text>    Supplier Down Payment Request</Text>
+						<range>0</range>
+						<contentEditable>inherit</contentEditable>
+					</PROPERTIES>
+					<CTX_PROPS>
+						<BOUNDINGRECT>0|0|0|0</BOUNDINGRECT>
+						<TITLE>HEAD</TITLE>
+						<NAMEKEY>id</NAMEKEY>
+						<CONTROLTYPE>HEAD</CONTROLTYPE>
+						<PREFIX />
+						<TEXT />
+						<TEXTKEY>Text</TEXTKEY>
+						<PARAMNAME />
+						<PARENTTREE />
+						<ISVISIBLE>True</ISVISIBLE>
+						<ISPREFERRED>False</ISPREFERRED>
+					</CTX_PROPS>
+					<CHILDREN>
+						<ITEM>
+							<PROPERTIES>
+								<TAG>META</TAG>
+								<range>0</range>
+								<contentEditable>inherit</contentEditable>
+								<content>IE=edge</content>
+								<http-equiv>X-UA-Compatible</http-equiv>
+							</PROPERTIES>
+							<CTX_PROPS>
+								<BOUNDINGRECT>0|0|0|0</BOUNDINGRECT>
+								<TITLE>META</TITLE>
+								<NAMEKEY>id</NAMEKEY>
+								<CONTROLTYPE>META</CONTROLTYPE>
+								<PREFIX />
+								<TEXT />
+								<TEXTKEY>Text</TEXTKEY>
+								<PARAMNAME />
+								<PARENTTREE />
+								<ISVISIBLE>True</ISVISIBLE>
+								<ISPREFERRED>False</ISPREFERRED>
+							</CTX_PROPS>
+						</ITEM>
+						<ITEM>
+							<PROPERTIES>
+								<TAG>META</TAG>
+								<range>1</range>
+								<contentEditable>inherit</contentEditable>
+							</PROPERTIES>
+							<CTX_PROPS>
+								<BOUNDINGRECT>0|0|0|0</BOUNDINGRECT>
+								<TITLE>META</TITLE>
+								<NAMEKEY>id</NAMEKEY>
+								<CONTROLTYPE>META</CONTROLTYPE>
+								<PREFIX />
+								<TEXT />
+								<TEXTKEY>Text</TEXTKEY>
+								<PARAMNAME />
+								<PARENTTREE />
+								<ISVISIBLE>True</ISVISIBLE>
+								<ISPREFERRED>False</ISPREFERRED>
+							</CTX_PROPS>
+						</ITEM>
+						<ITEM>
+							<PROPERTIES>
+								<TAG>META</TAG>
+								<name>viewport</name>
+								<range>2</range>
+								<contentEditable>inherit</contentEditable>
+								<content>width=device-width, initial-scale=1</content>
+							</PROPERTIES>
+							<CTX_PROPS>
+								<BOUNDINGRECT>0|0|0|0</BOUNDINGRECT>
+								<TITLE>META</TITLE>
+								<NAMEKEY>name</NAMEKEY>
+								<CONTROLTYPE>META</CONTROLTYPE>
+								<PREFIX />
+								<TEXT />
+								<TEXTKEY>Text</TEXTKEY>
+								<PARAMNAME>viewport</PARAMNAME>
+								<PARENTTREE />
+								<ISVISIBLE>True</ISVISIBLE>
+								<ISPREFERRED>False</ISPREFERRED>
+							</CTX_PROPS>
+						</ITEM>
+						<ITEM>
+							<PROPERTIES>
+								<TAG>META</TAG>
+								<range>3</range>
+								<contentEditable>inherit</contentEditable>
+								<content>text/html; charset=utf-8</content>
+							</PROPERTIES>
+							<CTX_PROPS>
+								<BOUNDINGRECT>0|0|0|0</BOUNDINGRECT>
+								<TITLE>META</TITLE>
+								<NAMEKEY>id</NAMEKEY>
+								<CONTROLTYPE>META</CONTROLTYPE>
+								<PREFIX />
+								<TEXT />
+								<TEXTKEY>Text</TEXTKEY>
+								<PARAMNAME />
+								<PARENTTREE />
+								<ISVISIBLE>True</ISVISIBLE>
+								<ISPREFERRED>False</ISPREFERRED>
+							</CTX_PROPS>
+						</ITEM>
+						<ITEM>
+							<PROPERTIES>
+								<TAG>TITLE</TAG>
+								<Text>Supplier Down Payment Request</Text>
+								<range>0</range>
+								<contentEditable>inherit</contentEditable>
+							</PROPERTIES>
+							<CTX_PROPS>
+								<BOUNDINGRECT>0|0|0|0</BOUNDINGRECT>
+								<TITLE>TITLE - Supplier Down Payment Request</TITLE>
+								<NAMEKEY>id</NAMEKEY>
+								<CONTROLTYPE>TITLE</CONTROLTYPE>
+								<PREFIX />
+								<TEXT>Supplier Down Payment Request</TEXT>
+								<TEXTKEY>Text</TEXTKEY>
+								<PARAMNAME />
+								<PARENTTREE />
+								<ISVISIBLE>True</ISVISIBLE>
+								<ISPREFERRED>False</ISPREFERRED>
+							</CTX_PROPS>
+						</ITEM>
+					</CHILDREN>
+				</ITEM>
+				<ITEM>
+					<PROPERTIES>
+						<TAG>BODY</TAG>
+						<Text IsCompressed="yes">dU1LCsIwFNwXeoe5gRtX7lKpuJAiCR6gpE8IpHmS96LW04toVQRnYDbzA/6hrp5qScKN1pGFOtZwnOpqpjN7uMVyazoDN4nSiIPdrV7dOdWwor2SLxo4wdKJs75N158JythwHCh/V5vMF6HPjKM0PJLt2IcI4z2XpPJ7ZksC7g==</Text>
+						<range>0</range>
+						<contentEditable>inherit</contentEditable>
+						<topMargin>15</topMargin>
+						<rightMargin>10</rightMargin>
+						<bottomMargin>15</bottomMargin>
+						<leftMargin>10</leftMargin>
+						<style>border: 1px solid red; border-image: none; width: 482px; height: 282px;</style>
+					</PROPERTIES>
+					<CTX_PROPS>
+						<BOUNDINGRECT>0|0|482|282</BOUNDINGRECT>
+						<TITLE>BODY</TITLE>
+						<NAMEKEY>id</NAMEKEY>
+						<CONTROLTYPE>BODY</CONTROLTYPE>
+						<PREFIX />
+						<TEXT />
+						<TEXTKEY>Text</TEXTKEY>
+						<PARAMNAME />
+						<PARENTTREE />
+						<ISVISIBLE>True</ISVISIBLE>
+						<ISPREFERRED>False</ISPREFERRED>
+					</CTX_PROPS>
+					<CHILDREN>
+						<ITEM>
+							<PROPERTIES>
+								<TAG>DIV</TAG>
+								<id>includes</id>
+								<Text>                          </Text>
+								<range>0</range>
+								<contentEditable>inherit</contentEditable>
+							</PROPERTIES>
+							<CTX_PROPS>
+								<BOUNDINGRECT>1|1|480|0</BOUNDINGRECT>
+								<TITLE>DIV</TITLE>
+								<NAMEKEY>id</NAMEKEY>
+								<CONTROLTYPE>DIV</CONTROLTYPE>
+								<PREFIX />
+								<TEXT />
+								<TEXTKEY>Text</TEXTKEY>
+								<PARAMNAME>includes</PARAMNAME>
+								<PARENTTREE />
+								<ISVISIBLE>True</ISVISIBLE>
+								<ISPREFERRED>False</ISPREFERRED>
+							</CTX_PROPS>
+							<CHILDREN>
+								<ITEM>
+									<PROPERTIES>
+										<TAG>LINK</TAG>
+										<href>../popup/fonts/font-awesome.min.css</href>
+										<range>0</range>
+										<contentEditable>inherit</contentEditable>
+										<rel>stylesheet</rel>
+										<type>text/css</type>
+									</PROPERTIES>
+									<CTX_PROPS>
+										<BOUNDINGRECT>1|1|0|0</BOUNDINGRECT>
+										<TITLE>LINK</TITLE>
+										<NAMEKEY>id</NAMEKEY>
+										<CONTROLTYPE>LINK</CONTROLTYPE>
+										<PREFIX />
+										<TEXT />
+										<TEXTKEY>Text</TEXTKEY>
+										<PARAMNAME />
+										<PARENTTREE />
+										<ISVISIBLE>True</ISVISIBLE>
+										<ISPREFERRED>False</ISPREFERRED>
+									</CTX_PROPS>
+								</ITEM>
+								<ITEM>
+									<PROPERTIES>
+										<TAG>LINK</TAG>
+										<href>../popup/jquery/jquery.contextMenu.min.css</href>
+										<range>1</range>
+										<contentEditable>inherit</contentEditable>
+										<rel>stylesheet</rel>
+										<type>text/css</type>
+									</PROPERTIES>
+									<CTX_PROPS>
+										<BOUNDINGRECT>1|1|0|0</BOUNDINGRECT>
+										<TITLE>LINK</TITLE>
+										<NAMEKEY>id</NAMEKEY>
+										<CONTROLTYPE>LINK</CONTROLTYPE>
+										<PREFIX />
+										<TEXT />
+										<TEXTKEY>Text</TEXTKEY>
+										<PARAMNAME />
+										<PARENTTREE />
+										<ISVISIBLE>True</ISVISIBLE>
+										<ISPREFERRED>False</ISPREFERRED>
+									</CTX_PROPS>
+								</ITEM>
+								<ITEM>
+									<PROPERTIES>
+										<TAG>LINK</TAG>
+										<href>../popup/bootstrap/bootstrap.min.css</href>
+										<range>2</range>
+										<contentEditable>inherit</contentEditable>
+										<rel>stylesheet</rel>
+										<type>text/css</type>
+									</PROPERTIES>
+									<CTX_PROPS>
+										<BOUNDINGRECT>1|1|0|0</BOUNDINGRECT>
+										<TITLE>LINK</TITLE>
+										<NAMEKEY>id</NAMEKEY>
+										<CONTROLTYPE>LINK</CONTROLTYPE>
+										<PREFIX />
+										<TEXT />
+										<TEXTKEY>Text</TEXTKEY>
+										<PARAMNAME />
+										<PARENTTREE />
+										<ISVISIBLE>True</ISVISIBLE>
+										<ISPREFERRED>False</ISPREFERRED>
+									</CTX_PROPS>
+								</ITEM>
+								<ITEM>
+									<PROPERTIES>
+										<TAG>LINK</TAG>
+										<href>../popup/bootstrap/bootstrap-theme.min.css</href>
+										<range>3</range>
+										<contentEditable>inherit</contentEditable>
+										<rel>stylesheet</rel>
+										<type>text/css</type>
+									</PROPERTIES>
+									<CTX_PROPS>
+										<BOUNDINGRECT>1|1|0|0</BOUNDINGRECT>
+										<TITLE>LINK</TITLE>
+										<NAMEKEY>id</NAMEKEY>
+										<CONTROLTYPE>LINK</CONTROLTYPE>
+										<PREFIX />
+										<TEXT />
+										<TEXTKEY>Text</TEXTKEY>
+										<PARAMNAME />
+										<PARENTTREE />
+										<ISVISIBLE>True</ISVISIBLE>
+										<ISPREFERRED>False</ISPREFERRED>
+									</CTX_PROPS>
+								</ITEM>
+								<ITEM>
+									<PROPERTIES>
+										<TAG>LINK</TAG>
+										<href>../popup/treeview/treeview.min.css</href>
+										<range>4</range>
+										<contentEditable>inherit</contentEditable>
+										<rel>stylesheet</rel>
+										<type>text/css</type>
+									</PROPERTIES>
+									<CTX_PROPS>
+										<BOUNDINGRECT>1|1|0|0</BOUNDINGRECT>
+										<TITLE>LINK</TITLE>
+										<NAMEKEY>id</NAMEKEY>
+										<CONTROLTYPE>LINK</CONTROLTYPE>
+										<PREFIX />
+										<TEXT />
+										<TEXTKEY>Text</TEXTKEY>
+										<PARAMNAME />
+										<PARENTTREE />
+										<ISVISIBLE>True</ISVISIBLE>
+										<ISPREFERRED>False</ISPREFERRED>
+									</CTX_PROPS>
+								</ITEM>
+								<ITEM>
+									<PROPERTIES>
+										<TAG>LINK</TAG>
+										<href>../popup/common/ctx.bootstrap.css</href>
+										<range>5</range>
+										<contentEditable>inherit</contentEditable>
+										<rel>stylesheet</rel>
+										<type>text/css</type>
+									</PROPERTIES>
+									<CTX_PROPS>
+										<BOUNDINGRECT>1|1|0|0</BOUNDINGRECT>
+										<TITLE>LINK</TITLE>
+										<NAMEKEY>id</NAMEKEY>
+										<CONTROLTYPE>LINK</CONTROLTYPE>
+										<PREFIX />
+										<TEXT />
+										<TEXTKEY>Text</TEXTKEY>
+										<PARAMNAME />
+										<PARENTTREE />
+										<ISVISIBLE>True</ISVISIBLE>
+										<ISPREFERRED>False</ISPREFERRED>
+									</CTX_PROPS>
+								</ITEM>
+								<ITEM>
+									<PROPERTIES>
+										<TAG>LINK</TAG>
+										<href>../popup/rating/bootstrap-rating.css</href>
+										<range>6</range>
+										<contentEditable>inherit</contentEditable>
+										<rel>stylesheet</rel>
+										<type>text/css</type>
+									</PROPERTIES>
+									<CTX_PROPS>
+										<BOUNDINGRECT>1|1|0|0</BOUNDINGRECT>
+										<TITLE>LINK</TITLE>
+										<NAMEKEY>id</NAMEKEY>
+										<CONTROLTYPE>LINK</CONTROLTYPE>
+										<PREFIX />
+										<TEXT />
+										<TEXTKEY>Text</TEXTKEY>
+										<PARAMNAME />
+										<PARENTTREE />
+										<ISVISIBLE>True</ISVISIBLE>
+										<ISPREFERRED>False</ISPREFERRED>
+									</CTX_PROPS>
+								</ITEM>
+							</CHILDREN>
+						</ITEM>
+						<ITEM>
+							<PROPERTIES>
+								<TAG>LINK</TAG>
+								<href>popup.css</href>
+								<range>0</range>
+								<contentEditable>inherit</contentEditable>
+								<rel>stylesheet</rel>
+								<type>text/css</type>
+							</PROPERTIES>
+							<CTX_PROPS>
+								<BOUNDINGRECT>1|1|0|0</BOUNDINGRECT>
+								<TITLE>LINK</TITLE>
+								<NAMEKEY>id</NAMEKEY>
+								<CONTROLTYPE>LINK</CONTROLTYPE>
+								<PREFIX />
+								<TEXT />
+								<TEXTKEY>Text</TEXTKEY>
+								<PARAMNAME />
+								<PARENTTREE />
+								<ISVISIBLE>True</ISVISIBLE>
+								<ISPREFERRED>False</ISPREFERRED>
+							</CTX_PROPS>
+						</ITEM>
+						<ITEM>
+							<PROPERTIES>
+								<TAG>DIV</TAG>
+								<Text>ResizeCloseNotify</Text>
+								<range>1</range>
+								<contentEditable>inherit</contentEditable>
+								<style>display: none;</style>
+							</PROPERTIES>
+							<CTX_PROPS>
+								<BOUNDINGRECT>0|0|0|0</BOUNDINGRECT>
+								<TITLE>DIV</TITLE>
+								<NAMEKEY>id</NAMEKEY>
+								<CONTROLTYPE>DIV</CONTROLTYPE>
+								<PREFIX />
+								<TEXT />
+								<TEXTKEY>Text</TEXTKEY>
+								<PARAMNAME />
+								<PARENTTREE />
+								<ISVISIBLE>True</ISVISIBLE>
+								<ISPREFERRED>False</ISPREFERRED>
+							</CTX_PROPS>
+							<CHILDREN>
+								<ITEM>
+									<PROPERTIES>
+										<TAG>TEXTAREA</TAG>
+										<id>Ctx_Result</id>
+										<name>Ctx_Result</name>
+										<range>0</range>
+										<contentEditable>inherit</contentEditable>
+										<type>textarea</type>
+									</PROPERTIES>
+									<CTX_PROPS>
+										<BOUNDINGRECT>0|0|0|0</BOUNDINGRECT>
+										<TITLE>TEXTAREA</TITLE>
+										<NAMEKEY>name</NAMEKEY>
+										<CONTROLTYPE>TEXTAREA</CONTROLTYPE>
+										<PREFIX />
+										<TEXT />
+										<TEXTKEY>Text</TEXTKEY>
+										<PARAMNAME>Ctx_Result</PARAMNAME>
+										<PARENTTREE />
+										<ISVISIBLE>True</ISVISIBLE>
+										<ISPREFERRED>False</ISPREFERRED>
+									</CTX_PROPS>
+								</ITEM>
+								<ITEM>
+									<PROPERTIES>
+										<TAG>TEXTAREA</TAG>
+										<id>Ctx_Event</id>
+										<name>Ctx_Event</name>
+										<range>1</range>
+										<contentEditable>inherit</contentEditable>
+										<type>textarea</type>
+									</PROPERTIES>
+									<CTX_PROPS>
+										<BOUNDINGRECT>0|0|0|0</BOUNDINGRECT>
+										<TITLE>TEXTAREA</TITLE>
+										<NAMEKEY>name</NAMEKEY>
+										<CONTROLTYPE>TEXTAREA</CONTROLTYPE>
+										<PREFIX />
+										<TEXT />
+										<TEXTKEY>Text</TEXTKEY>
+										<PARAMNAME>Ctx_Event</PARAMNAME>
+										<PARENTTREE />
+										<ISVISIBLE>True</ISVISIBLE>
+										<ISPREFERRED>False</ISPREFERRED>
+									</CTX_PROPS>
+								</ITEM>
+								<ITEM>
+									<PROPERTIES>
+										<TAG>TEXTAREA</TAG>
+										<id>Ctx_Item</id>
+										<name>Ctx_Item</name>
+										<range>2</range>
+										<contentEditable>inherit</contentEditable>
+										<type>textarea</type>
+									</PROPERTIES>
+									<CTX_PROPS>
+										<BOUNDINGRECT>0|0|0|0</BOUNDINGRECT>
+										<TITLE>TEXTAREA</TITLE>
+										<NAMEKEY>name</NAMEKEY>
+										<CONTROLTYPE>TEXTAREA</CONTROLTYPE>
+										<PREFIX />
+										<TEXT />
+										<TEXTKEY>Text</TEXTKEY>
+										<PARAMNAME>Ctx_Item</PARAMNAME>
+										<PARENTTREE />
+										<ISVISIBLE>True</ISVISIBLE>
+										<ISPREFERRED>False</ISPREFERRED>
+									</CTX_PROPS>
+								</ITEM>
+								<ITEM>
+									<PROPERTIES>
+										<TAG>BUTTON</TAG>
+										<id>Ctx_Resize</id>
+										<name>Ctx_Resize</name>
+										<Text>Resize</Text>
+										<range>0</range>
+										<contentEditable>inherit</contentEditable>
+										<type>submit</type>
+									</PROPERTIES>
+									<CTX_PROPS>
+										<BOUNDINGRECT>0|0|0|0</BOUNDINGRECT>
+										<TITLE>BUTTON - Resize</TITLE>
+										<NAMEKEY>name</NAMEKEY>
+										<CONTROLTYPE>BUTTON</CONTROLTYPE>
+										<PREFIX>bt</PREFIX>
+										<TEXT>Resize</TEXT>
+										<TEXTKEY>Text</TEXTKEY>
+										<PARAMNAME>Ctx_Resize</PARAMNAME>
+										<PARENTTREE />
+										<ISVISIBLE>True</ISVISIBLE>
+										<ISPREFERRED>False</ISPREFERRED>
+									</CTX_PROPS>
+								</ITEM>
+								<ITEM>
+									<PROPERTIES>
+										<TAG>BUTTON</TAG>
+										<id>Ctx_Close</id>
+										<name>Ctx_Close</name>
+										<Text>Close</Text>
+										<range>1</range>
+										<contentEditable>inherit</contentEditable>
+										<type>submit</type>
+									</PROPERTIES>
+									<CTX_PROPS>
+										<BOUNDINGRECT>0|0|0|0</BOUNDINGRECT>
+										<TITLE>BUTTON - Close</TITLE>
+										<NAMEKEY>name</NAMEKEY>
+										<CONTROLTYPE>BUTTON</CONTROLTYPE>
+										<PREFIX>bt</PREFIX>
+										<TEXT>Close</TEXT>
+										<TEXTKEY>Text</TEXTKEY>
+										<PARAMNAME>Ctx_Close</PARAMNAME>
+										<PARENTTREE />
+										<ISVISIBLE>True</ISVISIBLE>
+										<ISPREFERRED>False</ISPREFERRED>
+									</CTX_PROPS>
+								</ITEM>
+								<ITEM>
+									<PROPERTIES>
+										<TAG>BUTTON</TAG>
+										<id>Ctx_Notify</id>
+										<name>Ctx_Notify</name>
+										<Text>Notify</Text>
+										<range>2</range>
+										<contentEditable>inherit</contentEditable>
+										<type>submit</type>
+									</PROPERTIES>
+									<CTX_PROPS>
+										<BOUNDINGRECT>0|0|0|0</BOUNDINGRECT>
+										<TITLE>BUTTON - Notify</TITLE>
+										<NAMEKEY>name</NAMEKEY>
+										<CONTROLTYPE>BUTTON</CONTROLTYPE>
+										<PREFIX>bt</PREFIX>
+										<TEXT>Notify</TEXT>
+										<TEXTKEY>Text</TEXTKEY>
+										<PARAMNAME>Ctx_Notify</PARAMNAME>
+										<PARENTTREE />
+										<ISVISIBLE>True</ISVISIBLE>
+										<ISPREFERRED>False</ISPREFERRED>
+									</CTX_PROPS>
+								</ITEM>
+							</CHILDREN>
+						</ITEM>
+						<ITEM>
+							<PROPERTIES>
+								<TAG>DIV</TAG>
+								<id>main_container</id>
+								<Text IsCompressed="yes">4+Xi5Qp2DFAI1jfxcPRzVAiuLC5JzVUIDfKxUlDg5VIAERDolF+i4FqRmlxakpmfpxCUWpBfVAKXDE4sS1UoyVdwy89JSS1C1upUlF9enIowJjg1LwWk0jU3MTNHwTE5Ob80r6QY3bKg0jwFBQA=</Text>
+								<class>container-fluid containerCls</class>
+								<range>2</range>
+								<contentEditable>inherit</contentEditable>
+							</PROPERTIES>
+							<CTX_PROPS>
+								<BOUNDINGRECT>3|3|476|306</BOUNDINGRECT>
+								<TITLE>DIV</TITLE>
+								<NAMEKEY>id</NAMEKEY>
+								<CONTROLTYPE>DIV</CONTROLTYPE>
+								<PREFIX />
+								<TEXT />
+								<TEXTKEY>Text</TEXTKEY>
+								<PARAMNAME>main_container</PARAMNAME>
+								<PARENTTREE />
+								<ISVISIBLE>True</ISVISIBLE>
+								<ISPREFERRED>False</ISPREFERRED>
+							</CTX_PROPS>
+							<CHILDREN>
+								<ITEM>
+									<PROPERTIES>
+										<TAG>DIV</TAG>
+										<id>additiona_config_row</id>
+										<Text>
+SAP S/4HANA System URL:  
+   </Text>
+										<class>row</class>
+										<range>0</range>
+										<contentEditable>inherit</contentEditable>
+									</PROPERTIES>
+									<CTX_PROPS>
+										<BOUNDINGRECT>7|7|468|71</BOUNDINGRECT>
+										<TITLE>DIV</TITLE>
+										<NAMEKEY>id</NAMEKEY>
+										<CONTROLTYPE>DIV</CONTROLTYPE>
+										<PREFIX />
+										<TEXT />
+										<TEXTKEY>Text</TEXTKEY>
+										<PARAMNAME>additiona_config_row</PARAMNAME>
+										<PARENTTREE />
+										<ISVISIBLE>True</ISVISIBLE>
+										<ISPREFERRED>False</ISPREFERRED>
+									</CTX_PROPS>
+									<CHILDREN>
+										<ITEM>
+											<PROPERTIES>
+												<TAG>DIV</TAG>
+												<id>col1</id>
+												<Text>SAP S/4HANA System URL:  
+   </Text>
+												<class>  col-xs-12  col-sm-12  col-md-12  col-lg-12  </class>
+												<range>0</range>
+												<contentEditable>inherit</contentEditable>
+											</PROPERTIES>
+											<CTX_PROPS>
+												<BOUNDINGRECT>7|7|468|71</BOUNDINGRECT>
+												<TITLE>DIV</TITLE>
+												<NAMEKEY>id</NAMEKEY>
+												<CONTROLTYPE>DIV</CONTROLTYPE>
+												<PREFIX />
+												<TEXT />
+												<TEXTKEY>Text</TEXTKEY>
+												<PARAMNAME>col1</PARAMNAME>
+												<PARENTTREE />
+												<ISVISIBLE>True</ISVISIBLE>
+												<ISPREFERRED>False</ISPREFERRED>
+											</CTX_PROPS>
+											<CHILDREN>
+												<ITEM>
+													<PROPERTIES>
+														<TAG>DIV</TAG>
+														<id>fioriSystem_content</id>
+														<Text>SAP S/4HANA System URL:  
+   </Text>
+														<class>ctxcontent form-group</class>
+														<range>0</range>
+														<contentEditable>inherit</contentEditable>
+													</PROPERTIES>
+													<CTX_PROPS>
+														<BOUNDINGRECT>11|11|460|63</BOUNDINGRECT>
+														<TITLE>DIV</TITLE>
+														<NAMEKEY>id</NAMEKEY>
+														<CONTROLTYPE>DIV</CONTROLTYPE>
+														<PREFIX />
+														<TEXT />
+														<TEXTKEY>Text</TEXTKEY>
+														<PARAMNAME>fioriSystem_content</PARAMNAME>
+														<PARENTTREE />
+														<ISVISIBLE>True</ISVISIBLE>
+														<ISPREFERRED>False</ISPREFERRED>
+													</CTX_PROPS>
+													<CHILDREN>
+														<ITEM>
+															<PROPERTIES>
+																<TAG>LABEL</TAG>
+																<Text> SAP S/4HANA System URL: </Text>
+																<class>control-label</class>
+																<range>0</range>
+																<contentEditable>inherit</contentEditable>
+																<for>fioriSystem</for>
+															</PROPERTIES>
+															<CTX_PROPS>
+																<BOUNDINGRECT>13|13|185|20</BOUNDINGRECT>
+																<TITLE>LABEL -  SAP S/4HANA System URL: </TITLE>
+																<NAMEKEY>id</NAMEKEY>
+																<CONTROLTYPE>LABEL</CONTROLTYPE>
+																<PREFIX />
+																<TEXT> SAP S/4HANA System URL: </TEXT>
+																<TEXTKEY>Text</TEXTKEY>
+																<PARAMNAME />
+																<PARENTTREE />
+																<ISVISIBLE>True</ISVISIBLE>
+																<ISPREFERRED>False</ISPREFERRED>
+															</CTX_PROPS>
+														</ITEM>
+														<ITEM>
+															<PROPERTIES>
+																<TAG>DIV</TAG>
+																<Text>   </Text>
+																<class>input-group input-group-md</class>
+																<range>0</range>
+																<contentEditable>inherit</contentEditable>
+															</PROPERTIES>
+															<CTX_PROPS>
+																<BOUNDINGRECT>13|38|456|34</BOUNDINGRECT>
+																<TITLE>DIV</TITLE>
+																<NAMEKEY>id</NAMEKEY>
+																<CONTROLTYPE>DIV</CONTROLTYPE>
+																<PREFIX />
+																<TEXT />
+																<TEXTKEY>Text</TEXTKEY>
+																<PARAMNAME />
+																<PARENTTREE />
+																<ISVISIBLE>True</ISVISIBLE>
+																<ISPREFERRED>False</ISPREFERRED>
+															</CTX_PROPS>
+															<CHILDREN>
+																<ITEM>
+																	<PROPERTIES>
+																		<TAG>SPAN</TAG>
+																		<Text> </Text>
+																		<class>input-group-addon</class>
+																		<range>0</range>
+																		<contentEditable>inherit</contentEditable>
+																	</PROPERTIES>
+																	<CTX_PROPS>
+																		<BOUNDINGRECT>13|38|39|34</BOUNDINGRECT>
+																		<TITLE>SPAN</TITLE>
+																		<NAMEKEY>id</NAMEKEY>
+																		<CONTROLTYPE>SPAN</CONTROLTYPE>
+																		<PREFIX />
+																		<TEXT />
+																		<TEXTKEY>Text</TEXTKEY>
+																		<PARAMNAME />
+																		<PARENTTREE />
+																		<ISVISIBLE>True</ISVISIBLE>
+																		<ISPREFERRED>False</ISPREFERRED>
+																	</CTX_PROPS>
+																	<CHILDREN>
+																		<ITEM>
+																			<PROPERTIES>
+																				<TAG>I</TAG>
+																				<class>glyphicon glyphicon-link</class>
+																				<range>0</range>
+																				<contentEditable>inherit</contentEditable>
+																			</PROPERTIES>
+																			<CTX_PROPS>
+																				<BOUNDINGRECT>26|48|14|14</BOUNDINGRECT>
+																				<TITLE>I</TITLE>
+																				<NAMEKEY>id</NAMEKEY>
+																				<CONTROLTYPE>I</CONTROLTYPE>
+																				<PREFIX />
+																				<TEXT />
+																				<TEXTKEY>Text</TEXTKEY>
+																				<PARAMNAME />
+																				<PARENTTREE />
+																				<ISVISIBLE>True</ISVISIBLE>
+																				<ISPREFERRED>False</ISPREFERRED>
+																			</CTX_PROPS>
+																		</ITEM>
+																	</CHILDREN>
+																</ITEM>
+																<ITEM>
+																	<PROPERTIES>
+																		<TAG>INPUT</TAG>
+																		<id>fioriSystem</id>
+																		<class>form-control</class>
+																		<range>0</range>
+																		<contentEditable>inherit</contentEditable>
+																		<type>text</type>
+																		<start>fileopen</start>
+																	</PROPERTIES>
+																	<CTX_PROPS>
+																		<BOUNDINGRECT>52|38|417|34</BOUNDINGRECT>
+																		<TITLE>INPUT</TITLE>
+																		<NAMEKEY>id</NAMEKEY>
+																		<CONTROLTYPE>INPUT</CONTROLTYPE>
+																		<PREFIX />
+																		<TEXT />
+																		<TEXTKEY>Text</TEXTKEY>
+																		<PARAMNAME>fioriSystem</PARAMNAME>
+																		<PARENTTREE />
+																		<ISVISIBLE>True</ISVISIBLE>
+																		<ISPREFERRED>False</ISPREFERRED>
+																	</CTX_PROPS>
+																</ITEM>
+															</CHILDREN>
+														</ITEM>
+													</CHILDREN>
+												</ITEM>
+											</CHILDREN>
+										</ITEM>
+									</CHILDREN>
+								</ITEM>
+								<ITEM>
+									<PROPERTIES>
+										<TAG>DIV</TAG>
+										<id>reportHeader</id>
+										<Text>
+Bot Execution Report </Text>
+										<class>row</class>
+										<range>1</range>
+										<contentEditable>inherit</contentEditable>
+									</PROPERTIES>
+									<CTX_PROPS>
+										<BOUNDINGRECT>7|80|468|29</BOUNDINGRECT>
+										<TITLE>DIV</TITLE>
+										<NAMEKEY>id</NAMEKEY>
+										<CONTROLTYPE>DIV</CONTROLTYPE>
+										<PREFIX />
+										<TEXT />
+										<TEXTKEY>Text</TEXTKEY>
+										<PARAMNAME>reportHeader</PARAMNAME>
+										<PARENTTREE />
+										<ISVISIBLE>True</ISVISIBLE>
+										<ISPREFERRED>False</ISPREFERRED>
+									</CTX_PROPS>
+									<CHILDREN>
+										<ITEM>
+											<PROPERTIES>
+												<TAG>DIV</TAG>
+												<id>col2</id>
+												<Text>Bot Execution Report </Text>
+												<class>  col-xs-12  col-sm-12  col-md-12  col-lg-12  </class>
+												<range>0</range>
+												<contentEditable>inherit</contentEditable>
+												<style>margin: 5px 5px 0px 3px;</style>
+											</PROPERTIES>
+											<CTX_PROPS>
+												<BOUNDINGRECT>10|85|468|24</BOUNDINGRECT>
+												<TITLE>DIV</TITLE>
+												<NAMEKEY>id</NAMEKEY>
+												<CONTROLTYPE>DIV</CONTROLTYPE>
+												<PREFIX />
+												<TEXT />
+												<TEXTKEY>Text</TEXTKEY>
+												<PARAMNAME>col2</PARAMNAME>
+												<PARENTTREE />
+												<ISVISIBLE>True</ISVISIBLE>
+												<ISPREFERRED>False</ISPREFERRED>
+											</CTX_PROPS>
+											<CHILDREN>
+												<ITEM>
+													<PROPERTIES>
+														<TAG>DIV</TAG>
+														<id>item1</id>
+														<Text>Bot Execution Report </Text>
+														<class> text-default</class>
+														<range>0</range>
+														<contentEditable>inherit</contentEditable>
+														<style>font-family: Arial; font-size: 14px; font-weight: bold;</style>
+													</PROPERTIES>
+													<CTX_PROPS>
+														<BOUNDINGRECT>12|87|464|20</BOUNDINGRECT>
+														<TITLE>DIV - Bot Execution Report </TITLE>
+														<NAMEKEY>id</NAMEKEY>
+														<CONTROLTYPE>DIV</CONTROLTYPE>
+														<PREFIX />
+														<TEXT>Bot Execution Report </TEXT>
+														<TEXTKEY>Text</TEXTKEY>
+														<PARAMNAME>item1</PARAMNAME>
+														<PARENTTREE />
+														<ISVISIBLE>True</ISVISIBLE>
+														<ISPREFERRED>False</ISPREFERRED>
+													</CTX_PROPS>
+												</ITEM>
+											</CHILDREN>
+										</ITEM>
+									</CHILDREN>
+								</ITEM>
+								<ITEM>
+									<PROPERTIES>
+										<TAG>DIV</TAG>
+										<id>outputDir_selection_row</id>
+										<Text>
+Save to Folder:  
+   
+
+Browse  </Text>
+										<class>row</class>
+										<range>2</range>
+										<contentEditable>inherit</contentEditable>
+									</PROPERTIES>
+									<CTX_PROPS>
+										<BOUNDINGRECT>7|111|468|71</BOUNDINGRECT>
+										<TITLE>DIV</TITLE>
+										<NAMEKEY>id</NAMEKEY>
+										<CONTROLTYPE>DIV</CONTROLTYPE>
+										<PREFIX />
+										<TEXT />
+										<TEXTKEY>Text</TEXTKEY>
+										<PARAMNAME>outputDir_selection_row</PARAMNAME>
+										<PARENTTREE />
+										<ISVISIBLE>True</ISVISIBLE>
+										<ISPREFERRED>False</ISPREFERRED>
+									</CTX_PROPS>
+									<CHILDREN>
+										<ITEM>
+											<PROPERTIES>
+												<TAG>DIV</TAG>
+												<id>col5</id>
+												<Text>Save to Folder:  
+   </Text>
+												<class>  col-xs-10  col-sm-10  col-md-10  col-lg-10  </class>
+												<range>0</range>
+												<contentEditable>inherit</contentEditable>
+											</PROPERTIES>
+											<CTX_PROPS>
+												<BOUNDINGRECT>7|111|390|71</BOUNDINGRECT>
+												<TITLE>DIV</TITLE>
+												<NAMEKEY>id</NAMEKEY>
+												<CONTROLTYPE>DIV</CONTROLTYPE>
+												<PREFIX />
+												<TEXT />
+												<TEXTKEY>Text</TEXTKEY>
+												<PARAMNAME>col5</PARAMNAME>
+												<PARENTTREE />
+												<ISVISIBLE>True</ISVISIBLE>
+												<ISPREFERRED>False</ISPREFERRED>
+											</CTX_PROPS>
+											<CHILDREN>
+												<ITEM>
+													<PROPERTIES>
+														<TAG>DIV</TAG>
+														<id>output_folder_path_content</id>
+														<Text>Save to Folder:  
+   </Text>
+														<class>ctxcontent form-group</class>
+														<range>0</range>
+														<contentEditable>inherit</contentEditable>
+													</PROPERTIES>
+													<CTX_PROPS>
+														<BOUNDINGRECT>11|115|382|63</BOUNDINGRECT>
+														<TITLE>DIV</TITLE>
+														<NAMEKEY>id</NAMEKEY>
+														<CONTROLTYPE>DIV</CONTROLTYPE>
+														<PREFIX />
+														<TEXT />
+														<TEXTKEY>Text</TEXTKEY>
+														<PARAMNAME>output_folder_path_content</PARAMNAME>
+														<PARENTTREE />
+														<ISVISIBLE>True</ISVISIBLE>
+														<ISPREFERRED>False</ISPREFERRED>
+													</CTX_PROPS>
+													<CHILDREN>
+														<ITEM>
+															<PROPERTIES>
+																<TAG>LABEL</TAG>
+																<Text> Save to Folder: </Text>
+																<class>control-label</class>
+																<range>0</range>
+																<contentEditable>inherit</contentEditable>
+																<for>output_folder_path</for>
+															</PROPERTIES>
+															<CTX_PROPS>
+																<BOUNDINGRECT>13|117|101|20</BOUNDINGRECT>
+																<TITLE>LABEL -  Save to Folder: </TITLE>
+																<NAMEKEY>id</NAMEKEY>
+																<CONTROLTYPE>LABEL</CONTROLTYPE>
+																<PREFIX />
+																<TEXT> Save to Folder: </TEXT>
+																<TEXTKEY>Text</TEXTKEY>
+																<PARAMNAME />
+																<PARENTTREE />
+																<ISVISIBLE>True</ISVISIBLE>
+																<ISPREFERRED>False</ISPREFERRED>
+															</CTX_PROPS>
+														</ITEM>
+														<ITEM>
+															<PROPERTIES>
+																<TAG>DIV</TAG>
+																<Text>   </Text>
+																<class>input-group input-group-md</class>
+																<range>0</range>
+																<contentEditable>inherit</contentEditable>
+															</PROPERTIES>
+															<CTX_PROPS>
+																<BOUNDINGRECT>13|142|378|34</BOUNDINGRECT>
+																<TITLE>DIV</TITLE>
+																<NAMEKEY>id</NAMEKEY>
+																<CONTROLTYPE>DIV</CONTROLTYPE>
+																<PREFIX />
+																<TEXT />
+																<TEXTKEY>Text</TEXTKEY>
+																<PARAMNAME />
+																<PARENTTREE />
+																<ISVISIBLE>True</ISVISIBLE>
+																<ISPREFERRED>False</ISPREFERRED>
+															</CTX_PROPS>
+															<CHILDREN>
+																<ITEM>
+																	<PROPERTIES>
+																		<TAG>SPAN</TAG>
+																		<Text> </Text>
+																		<class>input-group-addon</class>
+																		<range>0</range>
+																		<contentEditable>inherit</contentEditable>
+																	</PROPERTIES>
+																	<CTX_PROPS>
+																		<BOUNDINGRECT>13|142|39|34</BOUNDINGRECT>
+																		<TITLE>SPAN</TITLE>
+																		<NAMEKEY>id</NAMEKEY>
+																		<CONTROLTYPE>SPAN</CONTROLTYPE>
+																		<PREFIX />
+																		<TEXT />
+																		<TEXTKEY>Text</TEXTKEY>
+																		<PARAMNAME />
+																		<PARENTTREE />
+																		<ISVISIBLE>True</ISVISIBLE>
+																		<ISPREFERRED>False</ISPREFERRED>
+																	</CTX_PROPS>
+																	<CHILDREN>
+																		<ITEM>
+																			<PROPERTIES>
+																				<TAG>I</TAG>
+																				<class>glyphicon glyphicon-folder-open</class>
+																				<range>0</range>
+																				<contentEditable>inherit</contentEditable>
+																			</PROPERTIES>
+																			<CTX_PROPS>
+																				<BOUNDINGRECT>26|152|14|14</BOUNDINGRECT>
+																				<TITLE>I</TITLE>
+																				<NAMEKEY>id</NAMEKEY>
+																				<CONTROLTYPE>I</CONTROLTYPE>
+																				<PREFIX />
+																				<TEXT />
+																				<TEXTKEY>Text</TEXTKEY>
+																				<PARAMNAME />
+																				<PARENTTREE />
+																				<ISVISIBLE>True</ISVISIBLE>
+																				<ISPREFERRED>False</ISPREFERRED>
+																			</CTX_PROPS>
+																		</ITEM>
+																	</CHILDREN>
+																</ITEM>
+																<ITEM>
+																	<PROPERTIES>
+																		<TAG>INPUT</TAG>
+																		<id>output_folder_path</id>
+																		<class>form-control</class>
+																		<range>0</range>
+																		<contentEditable>inherit</contentEditable>
+																		<type>text</type>
+																		<start>fileopen</start>
+																	</PROPERTIES>
+																	<CTX_PROPS>
+																		<BOUNDINGRECT>52|142|339|34</BOUNDINGRECT>
+																		<TITLE>INPUT</TITLE>
+																		<NAMEKEY>id</NAMEKEY>
+																		<CONTROLTYPE>INPUT</CONTROLTYPE>
+																		<PREFIX />
+																		<TEXT />
+																		<TEXTKEY>Text</TEXTKEY>
+																		<PARAMNAME>output_folder_path</PARAMNAME>
+																		<PARENTTREE />
+																		<ISVISIBLE>True</ISVISIBLE>
+																		<ISPREFERRED>False</ISPREFERRED>
+																	</CTX_PROPS>
+																</ITEM>
+															</CHILDREN>
+														</ITEM>
+													</CHILDREN>
+												</ITEM>
+											</CHILDREN>
+										</ITEM>
+										<ITEM>
+											<PROPERTIES>
+												<TAG>DIV</TAG>
+												<id>col6</id>
+												<Text>Browse  </Text>
+												<class>  col-xs-2  col-sm-2  col-md-2  col-lg-2   text-right</class>
+												<range>1</range>
+												<contentEditable>inherit</contentEditable>
+												<style>margin-top: 3rem;</style>
+											</PROPERTIES>
+											<CTX_PROPS>
+												<BOUNDINGRECT>397|141|78|38</BOUNDINGRECT>
+												<TITLE>DIV</TITLE>
+												<NAMEKEY>id</NAMEKEY>
+												<CONTROLTYPE>DIV</CONTROLTYPE>
+												<PREFIX />
+												<TEXT />
+												<TEXTKEY>Text</TEXTKEY>
+												<PARAMNAME>col6</PARAMNAME>
+												<PARENTTREE />
+												<ISVISIBLE>True</ISVISIBLE>
+												<ISPREFERRED>False</ISPREFERRED>
+											</CTX_PROPS>
+											<CHILDREN>
+												<ITEM>
+													<PROPERTIES>
+														<TAG>BUTTON</TAG>
+														<id>browse_output_dir</id>
+														<Text> Browse </Text>
+														<class>ctxlink btn btn-md browseBtn</class>
+														<range>0</range>
+														<contentEditable>inherit</contentEditable>
+														<type>button</type>
+														<style>margin-right: 5px;</style>
+													</PROPERTIES>
+													<CTX_PROPS>
+														<BOUNDINGRECT>399|143|70|34</BOUNDINGRECT>
+														<TITLE>BUTTON -  Browse </TITLE>
+														<NAMEKEY>id</NAMEKEY>
+														<CONTROLTYPE>BUTTON</CONTROLTYPE>
+														<PREFIX>bt</PREFIX>
+														<TEXT> Browse </TEXT>
+														<TEXTKEY>Text</TEXTKEY>
+														<PARAMNAME>browse_output_dir</PARAMNAME>
+														<PARENTTREE />
+														<ISVISIBLE>True</ISVISIBLE>
+														<ISPREFERRED>False</ISPREFERRED>
+													</CTX_PROPS>
+												</ITEM>
+											</CHILDREN>
+										</ITEM>
+									</CHILDREN>
+								</ITEM>
+								<ITEM>
+									<PROPERTIES>
+										<TAG>DIV</TAG>
+										<id>email_row</id>
+										<Text>
+Send to Email Accounts:  
+   </Text>
+										<class>row</class>
+										<range>3</range>
+										<contentEditable>inherit</contentEditable>
+									</PROPERTIES>
+									<CTX_PROPS>
+										<BOUNDINGRECT>7|184|468|71</BOUNDINGRECT>
+										<TITLE>DIV</TITLE>
+										<NAMEKEY>id</NAMEKEY>
+										<CONTROLTYPE>DIV</CONTROLTYPE>
+										<PREFIX />
+										<TEXT />
+										<TEXTKEY>Text</TEXTKEY>
+										<PARAMNAME>email_row</PARAMNAME>
+										<PARENTTREE />
+										<ISVISIBLE>True</ISVISIBLE>
+										<ISPREFERRED>False</ISPREFERRED>
+									</CTX_PROPS>
+									<CHILDREN>
+										<ITEM>
+											<PROPERTIES>
+												<TAG>DIV</TAG>
+												<id>col7</id>
+												<Text>Send to Email Accounts:  
+   </Text>
+												<class>  col-xs-12  col-sm-12  col-md-12  col-lg-12  </class>
+												<range>0</range>
+												<contentEditable>inherit</contentEditable>
+											</PROPERTIES>
+											<CTX_PROPS>
+												<BOUNDINGRECT>7|184|468|71</BOUNDINGRECT>
+												<TITLE>DIV</TITLE>
+												<NAMEKEY>id</NAMEKEY>
+												<CONTROLTYPE>DIV</CONTROLTYPE>
+												<PREFIX />
+												<TEXT />
+												<TEXTKEY>Text</TEXTKEY>
+												<PARAMNAME>col7</PARAMNAME>
+												<PARENTTREE />
+												<ISVISIBLE>True</ISVISIBLE>
+												<ISPREFERRED>False</ISPREFERRED>
+											</CTX_PROPS>
+											<CHILDREN>
+												<ITEM>
+													<PROPERTIES>
+														<TAG>DIV</TAG>
+														<id>email_content</id>
+														<Text>Send to Email Accounts:  
+   </Text>
+														<class>ctxcontent form-group</class>
+														<range>0</range>
+														<contentEditable>inherit</contentEditable>
+													</PROPERTIES>
+													<CTX_PROPS>
+														<BOUNDINGRECT>11|188|460|63</BOUNDINGRECT>
+														<TITLE>DIV</TITLE>
+														<NAMEKEY>id</NAMEKEY>
+														<CONTROLTYPE>DIV</CONTROLTYPE>
+														<PREFIX />
+														<TEXT />
+														<TEXTKEY>Text</TEXTKEY>
+														<PARAMNAME>email_content</PARAMNAME>
+														<PARENTTREE />
+														<ISVISIBLE>True</ISVISIBLE>
+														<ISPREFERRED>False</ISPREFERRED>
+													</CTX_PROPS>
+													<CHILDREN>
+														<ITEM>
+															<PROPERTIES>
+																<TAG>LABEL</TAG>
+																<Text> Send to Email Accounts: </Text>
+																<class>control-label</class>
+																<range>0</range>
+																<contentEditable>inherit</contentEditable>
+																<for>email</for>
+															</PROPERTIES>
+															<CTX_PROPS>
+																<BOUNDINGRECT>13|190|165|20</BOUNDINGRECT>
+																<TITLE>LABEL -  Send to Email Accounts: </TITLE>
+																<NAMEKEY>id</NAMEKEY>
+																<CONTROLTYPE>LABEL</CONTROLTYPE>
+																<PREFIX />
+																<TEXT> Send to Email Accounts: </TEXT>
+																<TEXTKEY>Text</TEXTKEY>
+																<PARAMNAME />
+																<PARENTTREE />
+																<ISVISIBLE>True</ISVISIBLE>
+																<ISPREFERRED>False</ISPREFERRED>
+															</CTX_PROPS>
+														</ITEM>
+														<ITEM>
+															<PROPERTIES>
+																<TAG>DIV</TAG>
+																<Text>   </Text>
+																<class>input-group input-group-md</class>
+																<range>0</range>
+																<contentEditable>inherit</contentEditable>
+															</PROPERTIES>
+															<CTX_PROPS>
+																<BOUNDINGRECT>13|215|456|34</BOUNDINGRECT>
+																<TITLE>DIV</TITLE>
+																<NAMEKEY>id</NAMEKEY>
+																<CONTROLTYPE>DIV</CONTROLTYPE>
+																<PREFIX />
+																<TEXT />
+																<TEXTKEY>Text</TEXTKEY>
+																<PARAMNAME />
+																<PARENTTREE />
+																<ISVISIBLE>True</ISVISIBLE>
+																<ISPREFERRED>False</ISPREFERRED>
+															</CTX_PROPS>
+															<CHILDREN>
+																<ITEM>
+																	<PROPERTIES>
+																		<TAG>SPAN</TAG>
+																		<Text> </Text>
+																		<class>input-group-addon</class>
+																		<range>0</range>
+																		<contentEditable>inherit</contentEditable>
+																	</PROPERTIES>
+																	<CTX_PROPS>
+																		<BOUNDINGRECT>13|215|39|34</BOUNDINGRECT>
+																		<TITLE>SPAN</TITLE>
+																		<NAMEKEY>id</NAMEKEY>
+																		<CONTROLTYPE>SPAN</CONTROLTYPE>
+																		<PREFIX />
+																		<TEXT />
+																		<TEXTKEY>Text</TEXTKEY>
+																		<PARAMNAME />
+																		<PARENTTREE />
+																		<ISVISIBLE>True</ISVISIBLE>
+																		<ISPREFERRED>False</ISPREFERRED>
+																	</CTX_PROPS>
+																	<CHILDREN>
+																		<ITEM>
+																			<PROPERTIES>
+																				<TAG>I</TAG>
+																				<class>glyphicon glyphicon-envelope</class>
+																				<range>0</range>
+																				<contentEditable>inherit</contentEditable>
+																			</PROPERTIES>
+																			<CTX_PROPS>
+																				<BOUNDINGRECT>26|225|14|14</BOUNDINGRECT>
+																				<TITLE>I</TITLE>
+																				<NAMEKEY>id</NAMEKEY>
+																				<CONTROLTYPE>I</CONTROLTYPE>
+																				<PREFIX />
+																				<TEXT />
+																				<TEXTKEY>Text</TEXTKEY>
+																				<PARAMNAME />
+																				<PARENTTREE />
+																				<ISVISIBLE>True</ISVISIBLE>
+																				<ISPREFERRED>False</ISPREFERRED>
+																			</CTX_PROPS>
+																		</ITEM>
+																	</CHILDREN>
+																</ITEM>
+																<ITEM>
+																	<PROPERTIES>
+																		<TAG>INPUT</TAG>
+																		<id>email</id>
+																		<class>form-control</class>
+																		<range>0</range>
+																		<contentEditable>inherit</contentEditable>
+																		<type>text</type>
+																		<start>fileopen</start>
+																	</PROPERTIES>
+																	<CTX_PROPS>
+																		<BOUNDINGRECT>52|215|417|34</BOUNDINGRECT>
+																		<TITLE>INPUT</TITLE>
+																		<NAMEKEY>id</NAMEKEY>
+																		<CONTROLTYPE>INPUT</CONTROLTYPE>
+																		<PREFIX />
+																		<TEXT />
+																		<TEXTKEY>Text</TEXTKEY>
+																		<PARAMNAME>email</PARAMNAME>
+																		<PARENTTREE />
+																		<ISVISIBLE>True</ISVISIBLE>
+																		<ISPREFERRED>False</ISPREFERRED>
+																	</CTX_PROPS>
+																</ITEM>
+															</CHILDREN>
+														</ITEM>
+													</CHILDREN>
+												</ITEM>
+											</CHILDREN>
+										</ITEM>
+									</CHILDREN>
+								</ITEM>
+								<ITEM>
+									<PROPERTIES>
+										<TAG>DIV</TAG>
+										<id>footer_row</id>
+										<Text>
+
+Run  </Text>
+										<class>row</class>
+										<range>4</range>
+										<contentEditable>inherit</contentEditable>
+									</PROPERTIES>
+									<CTX_PROPS>
+										<BOUNDINGRECT>7|257|468|48</BOUNDINGRECT>
+										<TITLE>DIV</TITLE>
+										<NAMEKEY>id</NAMEKEY>
+										<CONTROLTYPE>DIV</CONTROLTYPE>
+										<PREFIX />
+										<TEXT />
+										<TEXTKEY>Text</TEXTKEY>
+										<PARAMNAME>footer_row</PARAMNAME>
+										<PARENTTREE />
+										<ISVISIBLE>True</ISVISIBLE>
+										<ISPREFERRED>False</ISPREFERRED>
+									</CTX_PROPS>
+									<CHILDREN>
+										<ITEM>
+											<PROPERTIES>
+												<TAG>DIV</TAG>
+												<id>col3</id>
+												<class>  col-xs-10  col-sm-10  col-md-10  col-lg-10  </class>
+												<range>0</range>
+												<contentEditable>inherit</contentEditable>
+											</PROPERTIES>
+											<CTX_PROPS>
+												<BOUNDINGRECT>7|257|390|4</BOUNDINGRECT>
+												<TITLE>DIV</TITLE>
+												<NAMEKEY>id</NAMEKEY>
+												<CONTROLTYPE>DIV</CONTROLTYPE>
+												<PREFIX />
+												<TEXT />
+												<TEXTKEY>Text</TEXTKEY>
+												<PARAMNAME>col3</PARAMNAME>
+												<PARENTTREE />
+												<ISVISIBLE>True</ISVISIBLE>
+												<ISPREFERRED>False</ISPREFERRED>
+											</CTX_PROPS>
+										</ITEM>
+										<ITEM>
+											<PROPERTIES>
+												<TAG>DIV</TAG>
+												<id>col4</id>
+												<Text>Run  </Text>
+												<class>  col-xs-2  col-sm-2  col-md-2  col-lg-2   text-center</class>
+												<range>1</range>
+												<contentEditable>inherit</contentEditable>
+												<style>margin-top: 1rem;</style>
+											</PROPERTIES>
+											<CTX_PROPS>
+												<BOUNDINGRECT>397|267|78|38</BOUNDINGRECT>
+												<TITLE>DIV</TITLE>
+												<NAMEKEY>id</NAMEKEY>
+												<CONTROLTYPE>DIV</CONTROLTYPE>
+												<PREFIX />
+												<TEXT />
+												<TEXTKEY>Text</TEXTKEY>
+												<PARAMNAME>col4</PARAMNAME>
+												<PARENTTREE />
+												<ISVISIBLE>True</ISVISIBLE>
+												<ISPREFERRED>False</ISPREFERRED>
+											</CTX_PROPS>
+											<CHILDREN>
+												<ITEM>
+													<PROPERTIES>
+														<TAG>BUTTON</TAG>
+														<id>done_btn</id>
+														<Text> Run </Text>
+														<class>ctxlink btn pull-right btn-md fioriBtn</class>
+														<range>0</range>
+														<contentEditable>inherit</contentEditable>
+														<type>button</type>
+														<style>margin-right: 5px;</style>
+													</PROPERTIES>
+													<CTX_PROPS>
+														<BOUNDINGRECT>398|269|70|34</BOUNDINGRECT>
+														<TITLE>BUTTON -  Run </TITLE>
+														<NAMEKEY>id</NAMEKEY>
+														<CONTROLTYPE>BUTTON</CONTROLTYPE>
+														<PREFIX>bt</PREFIX>
+														<TEXT> Run </TEXT>
+														<TEXTKEY>Text</TEXTKEY>
+														<PARAMNAME>done_btn</PARAMNAME>
+														<PARENTTREE />
+														<ISVISIBLE>True</ISVISIBLE>
+														<ISPREFERRED>False</ISPREFERRED>
+													</CTX_PROPS>
+												</ITEM>
+											</CHILDREN>
+										</ITEM>
+									</CHILDREN>
+								</ITEM>
+							</CHILDREN>
+						</ITEM>
+					</CHILDREN>
+				</ITEM>
+			</CHILDREN>
+		</ITEM>
+	</CHILDREN>
+</PAGE>

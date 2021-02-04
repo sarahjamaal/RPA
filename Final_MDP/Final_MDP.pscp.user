@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<USER>
+	<BREAKPOINTS />
+	<BOOKMARKS />
+	<FINDHISTORY>
+		<FINDWHAT><![CDATA[@gmail]]></FINDWHAT>
+		<FINDWHAT><![CDATA[ctx.log(root]]></FINDWHAT>
+		<FINDWHAT><![CDATA[rootData.purchaseOrder]]></FINDWHAT>
+		<FINDWHAT><![CDATA[rootData.msg]]></FINDWHAT>
+		<FINDWHAT><![CDATA[3000]]></FINDWHAT>
+		<FINDWHAT><![CDATA[inject]]></FINDWHAT>
+		<FINDWHAT><![CDATA[2000]]></FINDWHAT>
+		<FINDWHAT><![CDATA[setDateToday]]></FINDWHAT>
+		<FINDWHAT><![CDATA[btCloseIncomplete]]></FINDWHAT>
+		<FINDWHAT><![CDATA[rootdata.price]]></FINDWHAT>
+		<FINDWHAT><![CDATA[aMSDPaymentRequests.pMonitorPurchaseOrde]]></FINDWHAT>
+		<FINDWHAT><![CDATA[orderItems]]></FINDWHAT>
+		<FINDWHAT><![CDATA[ctx.log]]></FINDWHAT>
+		<REPLACEWITH><![CDATA[Logon.pMonitorPurchaseOrde]]></REPLACEWITH>
+	</FINDHISTORY>
+	<DEBUGTRACEFINDHISTORY />
+	<OPENDOCS>
+		<OPENDOC LineNumber="-1" SearchPath="APPLI[@Name='Logon']" Offset="0" Length="0" />
+		<OPENDOC LineNumber="-1" SearchPath="PROCESS[@Name='GLOBAL']/WORKFLOWS/WORKFLOW[@Name='MDP']" Offset="0" Length="0"><![CDATA[madata]]></OPENDOC>
+		<OPENDOC LineNumber="559" SearchPath="PROCESS[@Name='GLOBAL']/SCRIPTS/SCRIPT[@Src='mdp.js']" Offset="0" Length="0" />
+	</OPENDOCS>
+	<PROPERTIES>
+		<DebugTester><![CDATA[]]></DebugTester>
+		<CurPerspective><![CDATA[5]]></CurPerspective>
+	</PROPERTIES>
+	<WATCHES />
+	<APPLIFILTERS />
+	<EVENTFILTERS />
+	<WORKFLOW_MOSTUSED />
+</USER>
